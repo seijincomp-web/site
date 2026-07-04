@@ -5,7 +5,7 @@
     "name": "Solo Leveling Mod",
     "uuid": "a1b2c3d4-e5f6-4a5b-8c9d-e0f1a2b3c4d5",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 19, 0]
+    "min_engine_version": [1, 26, 31]
   },
   "modules": [
     {
